@@ -1,0 +1,5 @@
+load_attach_path("./BooleanNetwork")
+load("utils.sage")
+load("BooleanFunction.sage")
+load("BooleanFunctionSet.sage")
+load("ProbabilisticBooleanNetwork.sage")

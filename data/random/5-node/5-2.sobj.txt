@@ -1,0 +1,11 @@
+Asynchronous 5-Node Network	Perturbation_mode:one	param:[0.0563724581835408, 0.0930059536484134]
+Node 0:
+3-BF Inputs:[2, 3, 4]	Values:[0, 1, 1, 0, 1, 0, 1, 0]	(1.0)
+Node 1:
+2-BF Inputs:[2, 4]	Values:[0, 0, 1, 1]	(1.0)
+Node 2:
+1-BF Inputs:[0]	Values:[0, 0]	(1.0)
+Node 3:
+4-BF Inputs:[0, 2, 3, 4]	Values:[1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1]	(1.0)
+Node 4:
+5-BF Inputs:[0, 1, 2, 3, 4]	Values:[1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0]	(1.0)
